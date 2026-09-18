@@ -1,10 +1,10 @@
 # Student Grade Calculator
 
 ## Name
-Nyasha Kumari
+Anirudh Arya
 
 ## Registration Number
-25BAI10550
+25BAI11192
 
 ## Project Description
 This is a simple Java project that calculates the total marks, average marks, and grade of a student based on marks entered by the user.
